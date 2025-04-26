@@ -12,6 +12,7 @@ import {
 } from './mockData';
 
 const API_URL = 'http://localhost:8000/api';
+//const API_URL = 'https://turbo-palm-tree-4959g4g9rg5hj96x-8000.app.github.dev/api';
 
 // 백엔드 API 사용 여부 (false면 목업 데이터 사용)
 const USE_REAL_API = true;
